@@ -1,0 +1,44 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+  color: #373a3C
+}
+h1 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  color: #373a3C
+}
+
+.letra {
+  font-family: 'Lobster', cursive;
+  color: white;
+  font-size: 3em
+}
+
+.img-slyde {
+  width: 13rem
+}
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+
+}
+
+.carousel-indicators .active{
+    background-color: #000000;
+}
+
+.carousel-indicators .inactivo{
+    background-color: #000000;
+}
+
+.tipo {
+  font-family: 'Lobster', cursive;
+  color: white;
+  font-size: 1em
+}
+
+.colornav {
+  color: #fff
+}
